@@ -1,0 +1,13 @@
+2024-06-27 20:47:47.863 [main] TRACE p.logging.LevelTest - [] - Trace
+2024-06-27 20:47:47.865 [main] DEBUG p.logging.LevelTest - [] - Debug
+2024-06-27 20:47:47.865 [main] INFO  p.logging.LevelTest - [] - Info
+2024-06-27 20:47:47.865 [main] WARN  p.logging.LevelTest - [] - Warning
+2024-06-27 20:47:47.865 [main] ERROR p.logging.LevelTest - [] - Error
+2024-06-27 20:49:19.677 [main] INFO  programmerzamannow.logging.MainTest - [] - Hello Logger
+2024-06-27 20:49:19.679 [main] INFO  programmerzamannow.logging.MainTest - [] - Selamat Belajar Java Logging
+2024-06-27 21:01:58.444 [main] ERROR contoh.ContohTest - [] - Contoh
+2024-06-27 22:30:46.204 [main] TRACE p.logging.LevelTest - [] - Trace
+2024-06-27 22:30:46.204 [main] DEBUG p.logging.LevelTest - [] - Debug
+2024-06-27 22:30:46.219 [main] INFO  p.logging.LevelTest - [] - Info
+2024-06-27 22:30:46.219 [main] WARN  p.logging.LevelTest - [] - Warning
+2024-06-27 22:30:46.219 [main] ERROR p.logging.LevelTest - [] - Error
